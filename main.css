@@ -11,6 +11,10 @@ html, body {
     color: white;
 }
 
+p, h1 {
+    text-align: center;
+}
+
 .game {
     cursor: pointer;
     color: cyan;
